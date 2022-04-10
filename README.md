@@ -15,7 +15,7 @@ It doesn't matter if you join our workshop live or you prefer to do at your own 
 - [Slide deck - week 2](./slides_wk2.pdf)
 - [Slide deck - week 3](./slides_wk3.pdf)
 - [Questions and Answers](https://community.datastax.com/)
-- [Worskhop code] (https://github.com/datastaxdevs/workshop-ecommerce-app)
+- [Worskhop code] (https://github.com/ohmss/workshop-ecommerce-app)
 
 If you cannot attend this workshop live, recordings of this workshop and many more is available on [Youtube](https://youtube.com/datastaxdevs).
 
