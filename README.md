@@ -487,7 +487,7 @@ We are now set with the database and credentials and will incorporate them into 
 
 ## 6. Setup your application
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/datastaxdevs/workshop-ecommerce-app)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ohmss/workshop-ecommerce-app)
 
 ### Know your Gitpod
 
